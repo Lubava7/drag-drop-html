@@ -1,0 +1,48 @@
+#div1,
+#div2,
+#div3,
+#div4,
+#div5,
+#div6,
+#div7,
+#div8,
+#div9,
+#div10,
+#div11 {
+  float: left;
+  width: 100px;
+  height: 35px;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid black;
+}
+#drag1,
+#drag2,
+#drag3,
+#drag4,
+#drag5,
+#drag6 {
+  /* background-color: purple; */
+  width: 100px;
+  height: 50px;
+  color: wheat;
+}
+.red {
+  background-color: red;
+}
+.orange {
+  background-color: orange;
+}
+.yellow {
+  background-color: yellow;
+  color: black !important;
+}
+.green {
+  background-color: green;
+}
+.blue {
+  background-color: blue;
+}
+.purple {
+  background-color: purple;
+}
